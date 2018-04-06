@@ -1,0 +1,22 @@
+{
+  "name": "ws-message-handler-front",
+  "version": "1.0.0",
+  "description": "This project aims to test the WSMessageHandler through WebSocket connection by using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiilva/ws-message-handler-front.git"
+  },
+  "author": "asiilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiilva/ws-message-handler-front/issues"
+  },
+  "homepage": "https://github.com/asiilva/ws-message-handler-front#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
