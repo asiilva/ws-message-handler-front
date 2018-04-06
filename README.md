@@ -15,7 +15,7 @@ Prerequisities:
 https://nodejs.org/en/ (NodeJS)
 ```
 
-Run Visual Studio Code Integrated Terminal (bash/cmd):
+Run (bash / cmd):
 
 ```bash
 npm install
@@ -24,7 +24,7 @@ npm start
 
 ## Test
 
-This WebSocket uses xUnit as a test framework. It can be easily tested by running the command below.
+This application uses mocha as a test framework. It can be easily tested by running the command below.
 
 ```bash
 npm test
